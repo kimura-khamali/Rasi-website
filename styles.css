@@ -1,0 +1,131 @@
+nav ul {
+   list-style-type: none;
+   display: flex;
+   /* margin: 0;
+   padding: 0; */
+}
+
+nav li {
+   margin-left: 20px; 
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+ 
+.image {
+    background-image: url("https://tinyurl.com/4vz5wrhv");
+    background-repeat: repeat;
+
+}
+.navbar {
+    background-image: url("https://tinyurl.com/4vz5wrhv");
+    background-repeat: repeat;
+}
+
+.two {
+    display: flex;
+    gap: 20%;
+}
+
+.three {
+    display: flex;
+    gap: 9%;
+    padding: 5px;
+}
+
+.threeimg1 {
+    width: 90%;
+    height: 20vh;
+}
+
+.threeimg2 {
+    width: 80%;
+    height: 15vh;
+}
+
+
+
+.threeimg3 {
+    width: 50%;
+    height: 15vh;
+}
+
+
+
+.threeimg4 {
+    width: 70%;
+    height: 15vh;
+}
+
+.three1{
+    display: flex;
+    gap: 6%;
+}
+
+
+
+.five {
+    display: flex;
+}
+
+.six {
+    display: flex;
+}
+
+.six2 {
+    width: 70px;
+    height: 20vh;
+}
+
+.six3 {
+    width: 70px;
+    height: 100px;
+}
+
+.eight1 {
+width: 70px;
+height: 5vh;
+}
+
+.eight3 {
+    width:70px ;
+    height:10vh ;  
+}
+
+.eight4 {
+    width:70px ;
+    height:10vh ;  
+}
+
+.eight5 {
+    width: 70px;
+    height:10vh ;  
+}
+
+.eight6 {
+    width:70px ;
+    height: 10vh; 
+}
+
+.eight7 {
+    width: 70px;
+    height: 10vh; 
+}
+
+.eight8 {
+    width:70px ;
+height: 10vh;
+}
+.eight9 {
+    width: 70px;
+    height:10vh ;  
+}
+footer {
+    display: flex;
+}
+
